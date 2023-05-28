@@ -1,1 +1,1 @@
-# clv_three_months_online_retail_case
+# Memprediksi umur pelanggan 3 bulan menggunakan library lifetime
